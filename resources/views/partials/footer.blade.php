@@ -1,0 +1,4 @@
+<footer class="text-center py-3 bg-white mt-auto">
+    <p class="mb-0">
+        &copy; {{ date('Y') }} Profile Mahasiswa. All rights reserved.</p>
+    </footer>
