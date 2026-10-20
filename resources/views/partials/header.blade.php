@@ -25,6 +25,11 @@
                             </a>
                         </li>
                         <li class="nav-item">
+                            <a href="{{ url('/project') }}" class="nav-link text-white">
+                                Project
+                            </a>
+                        </li>
+                        <li class="nav-item">
                             <a href="{{ url('/about') }}" class="nav-link text-white">
                                 About
                             </a>
